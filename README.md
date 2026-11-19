@@ -2,6 +2,8 @@
 
 박형민이 KFA 「AI 에이전트 만들기」 스터디에서 실습한 내용과 결과를 기록합니다. 외부 독자가 맥락을 알 수 있도록 주간 기록과 결과물을 함께 정리합니다.
 
+1조 리서치 센터는 [kfa-1jo-research](https://github.com/phm0305/kfa-1jo-research)로 옮김.
+
 ## 에이전트 구조
 
 ```mermaid
